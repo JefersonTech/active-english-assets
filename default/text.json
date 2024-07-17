@@ -1,3 +1,24 @@
 {
-  "en-US": {}
+  "en-US": {
+    "general": {
+      "date": "d/MM/y hh:mmaaa",
+      "shortDate": "d/MM/y",
+      "normalDate": "d 'de' MMMM",
+      "shortHour": "hh:mmaaa",
+      "hourNoneIndicators": "KK:mm",
+      "notFoundModule": "No se encontró el módulo {{-moduleName}}",
+      "btnConfirmSignOut": "Sí, cerrar",
+      "btnCancelSignOut": "No, regresar",
+      "textSignOut": "¿Seguro que quieres cerrar sesión?",
+      "loggoutButton": "Cerrar Sesión",
+      "textAreatMaxLength": "Cantidad máxima de caracteres: {{count}}",
+      "textAreatMinLength": "Cantidad minima de caracteres: {{count}}",
+      "searchPlaceholder": "Buscar",
+      "headerReturn": "Regresar",
+      "dateFrom": "Desde",
+      "dateTo": "Hasta",
+      "errors": {},
+      "closeSnackbar": "Cerrar"
+    }
+  }
 }

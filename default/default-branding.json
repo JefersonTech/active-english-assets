@@ -4,5 +4,31 @@
   "assets": {
     "appbar": "https://github.com/JefersonTech/active-english-assets/blob/main/default/assets/appbar.png?raw=true"
   },
-  "colors": {}
+  "colors": {},
+  "walkthroughConfig": {
+    "screens": [
+      {
+        "imageBackground": "https://github.com/JefersonTech/active-english-assets/blob/main/default/assets/walkthrough_screen_01.png?raw=true",
+        "title": "Llego la hora\nde verte despegar!",
+        "description": "Vamos a convertir el manejo del idioma inglés en el medio que te va a hacer despegar hacia tus metas!",
+        "titleStyle": {
+          "color": "#0A57D9"
+        },
+        "descriptionStyle": {
+          "color": "#0B1E64"
+        }
+      },
+      {
+        "imageBackground": "https://github.com/JefersonTech/active-english-assets/blob/main/default/assets/walkthrough_screen_02.png?raw=true",
+        "title": "Tu mismo decides\ncuál es tu agenda",
+        "description": "Selecciona las clases que mejor se acomodan a tu disponibilidad horaria Ya no hay excusas para aprender!",
+        "titleStyle": {
+          "color": "#0A57D9"
+        },
+        "descriptionStyle": {
+          "color": "#0B1E64"
+        }
+      }
+    ]
+  }
 }
